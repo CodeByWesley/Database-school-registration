@@ -57,8 +57,9 @@ Este banco foi criado exclusivamente para fins de aprendizado e prática em:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por Wesley Vitor
-GitHub: https://github.com/CodeByWesley
+Desenvolvido por **Wesley Vitor**  
+🔗 GitHub: https://github.com/CodeByWesley
 
+## 📘 Sobre o Projeto
 
-Projeto desenvolvido como prática de estudo em Banco de Dados.
+Projeto desenvolvido como prática de estudo em **Banco de Dados**.
