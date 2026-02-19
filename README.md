@@ -1,36 +1,36 @@
-# 📚 Cadastro Escolar (Projeto de Estudo em SQL)
+# 📚 School Database (SQL Study Project)
 
-Este projeto foi desenvolvido com o objetivo de praticar modelagem de banco de dados e comandos SQL, simulando a estrutura de um sistema acadêmico escolar.
+This project was developed with the purpose of practicing database modeling and SQL commands, simulating the structure of an academic school system.
 
-O banco de dados representa uma escola que atende:
+The database represents a school that offers:
 
-- Ensino Fundamental (1º ao 9º ano)
-- Ensino Médio (1º ao 3º ano)
-
----
-
-## 🏫 Regras de Negócio
-
-Foram consideradas as seguintes regras:
-
-- Alunos do **Ensino Fundamental** podem realizar apenas **cursos básicos**
-- Alunos do **Ensino Médio** podem realizar **cursos básicos, técnicos e profissionalizantes**
+- Elementary School (1st to 9th grade)
+- High School (1st to 3rd grade)
 
 ---
 
-## 🧩 Estrutura do Banco de Dados
+## 🏫 Business Rules
 
-O sistema foi modelado utilizando as seguintes entidades:
+The following rules were considered:
 
-- **alunos** → Dados dos estudantes  
-- **curso** → Cursos oferecidos pela escola  
-- **turma** → Ofertas de cursos  
-- **matricula** → Vínculo entre alunos e turmas  
-- **sala** → Ambientes físicos  
+- **Elementary School** students can enroll only in **basic courses**
+- **High School** students can enroll in **basic, technical, and vocational courses**
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+## 🧩 Database Structure
+
+The system was modeled using the following entities:
+
+- **students** → Student data  
+- **course** → Courses offered by the school  
+- **class** → Course offerings  
+- **enrollment** → Relationship between students and classes  
+- **room** → Physical classrooms  
+
+---
+
+## ⚙️ Technologies Used
 
 - MySQL / MariaDB
 - SQL
@@ -38,28 +38,30 @@ O sistema foi modelado utilizando as seguintes entidades:
 
 ---
 
-## 🎯 Objetivo do Projeto
+## 🎯 Project Goal
 
-Este banco foi criado exclusivamente para fins de aprendizado e prática em:
+This database was created exclusively for learning and practice in:
 
-- Banco de Dados
+- Databases
 - SQL
-- Modelagem de Sistemas
+- System Modeling
 
 ---
 
-## 🚀 Status do Projeto
+## 🚀 Project Status
 
-✅ Estrutura inicial concluída  
-🔄 Projeto em evolução  
+✅ Initial structure completed  
+🔄 Project in progress  
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Author
 
-Desenvolvido por **Wesley Vitor**  
+Developed by **Wesley Vitor**  
 🔗 GitHub: https://github.com/CodeByWesley
 
-## 📘 Sobre o Projeto
+---
 
-Projeto desenvolvido como prática de estudo em **Banco de Dados**.
+## 📘 About
+
+Project created as part of my studies in **Database Systems**.
