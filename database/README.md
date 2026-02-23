@@ -47,6 +47,7 @@ Relationships between entities were implemented using **FOREIGN KEY constraints*
 
 ## 📂 Project Structure
 database/
+
 └── schema.sql # Database structure (tables, constraints, relationships)
 
 ---
