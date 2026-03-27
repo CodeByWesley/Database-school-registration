@@ -1,4 +1,4 @@
-# School Database (SQL Study Project)
+# School Database (SQL Study Project).
 
 Relational database schema for a school management system including:
 
